@@ -13,5 +13,5 @@ app.use(requestLogger);
 app.use(router);
 app.use(errorLogger);
 
-app.listen(4000);
+app.listen(process.env.PORT);
 console.log('server running on 4000');
