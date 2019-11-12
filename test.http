@@ -1,0 +1,10 @@
+GET http://localhost:4000/latest
+
+
+###
+GET http://localhost:4000/searchBooks/lisp/1
+###
+GET http://localhost:4000/randomBooks
+
+###
+GET http://93.174.95.29/covers/667000/aded73fa19344d8a5332424d84d7b3ce-g.jpg

@@ -1,0 +1,1617 @@
+Error: Error: No results for "comdy"
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:41:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for "fictn"
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:41:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for fictn
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:41:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: Search query must be at least four characters
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:41:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: Bad response: 500
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:41:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: error is not defined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:8:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: error is not defined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:8:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: error is not defined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:8:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: TypeError: Book is not a constructor
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:46:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: ReferenceError: Book is not defined
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:45:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: ReferenceError: Book is not defined
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:46:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: ReferenceError: Book is not defined
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:46:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: ReferenceError: el is not defined
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:46:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: ReferenceError: coverurl is not defined
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:46:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: TypeError: obj.author.replaceAll is not a function
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:46:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: Title is not defined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:63:22)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: log is not defined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:57:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+TypeError: Cannot read property 'then' of undefined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:67:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'then' of undefined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:67:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'then' of undefined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:67:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'then' of undefined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:67:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'then' of undefined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:67:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'then' of undefined
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:66:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'then' of undefined
+    at Object.random.text (C:\Users\snehil\Desktop\library\src\services\libgen\lib\random.js:16:37)
+    at mirror.then (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:66:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+ReferenceError: err is not defined
+    at randomText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:77:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: Bad response: 500
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:46:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: Invalid response
+    at randomText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:77:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: No results for topic69
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:50:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: Bad response: could not parse search results
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:50:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: Bad response: could not parse search results
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:50:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: Bad response: could not parse search results
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:50:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: Bad response: 500
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: Search query must be at least four characters
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for comdy
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: Bad response: 500
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results found
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results found
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:56:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results found
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:56:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: Bad reponse code (503) for http://gen.lib.rus.ec/search.php?mode=last
+    at randomText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:79:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for portobelo
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for portobelo
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: read ECONNRESET
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: connect ETIMEDOUT 198.167.223.167:80
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: Bad response: 504
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Error: connect ETIMEDOUT 198.167.223.167:80
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: connect ETIMEDOUT 198.167.223.167:80
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Error: Bad response: 500
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Error: No results for clisp
+    at search.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:51:25)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:19:14)
+    at Request.self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (C:\Users\snehil\node_modules\request\request.js:1161:10)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+Error: Bad response from all mirrors
+    at async.map (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:42:23)
+    at err (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:252:13)
+    at wrapper (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:272:20)
+    at iteratorCallback (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:499:17)
+    at C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:325:20
+    at _iteratee (C:\Users\snehil\Desktop\library\node_modules\async\dist\async.js:249:17)
+    at Request.request [as _callback] (C:\Users\snehil\Desktop\library\src\services\libgen\lib\mirror.js:16:14)
+    at self.callback (C:\Users\snehil\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (C:\Users\snehil\node_modules\request\request.js:881:8)
+TypeError: err.status is not a function
+    at latestText.then.catch.error (C:\Users\snehil\Desktop\library\src\services\fetchBooks.js:24:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
