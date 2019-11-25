@@ -39,7 +39,7 @@ module.exports = function(callback){
     });
 
     if (noResponses)
-      return callback(new Error('Bad response from all mirrors'));
+      return callback(null, 'gen.lib.rus.ec');
 
     const sorted = results.sort((a, b) => {
       return a.time - b.time;
